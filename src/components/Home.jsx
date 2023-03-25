@@ -32,7 +32,7 @@ const Home = () => {
       <Carousel
         autoPlay
         infiniteLoop
-        interval={1000}
+        interval={1500}
         showStatus={false}
         showThumbs={false}
         showArrows={false}
